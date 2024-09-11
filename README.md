@@ -15,6 +15,27 @@
 - Git commands
 <br>
 
+<br>
+
+Git status
+
+<br>
+
+```sh
+git status
+```
+
+<br>
+
+Git restore
+
+<br>
+
+```sh
+git restore "filename"
+```
+<br>
+
 Git add
 
 ```sh
