@@ -106,7 +106,10 @@ git rm untracked-files
 
 <br>
 
+- git log
 - Fork
 - Pull-request
 - - Doing your first pull request
 - Contributions
+- branc
+- checkout, branch, branches in general
