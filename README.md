@@ -7,7 +7,8 @@ Master your Git skills and become a Git pro! This repository helps you practice 
   <img src="https://contrib.rocks/image?repo=MarkosComK/Git-gud" />
 </a>
 
-So, you want to smash showing your git abilities? 
+So, you want to smash showing your git abilities?
+
 You came to the right place, here you'll be a git master and finally be "gud at git"
 
 <p align="center">
@@ -41,7 +42,7 @@ Made with [contrib.rocks](https://contrib.rocks)
    ```
 
 4. **Add Your Contribution**
-   - Create a new file named `YOUR-USERNAME.md`
+   - Create a new file named `YOUR-USERNAME.c` inside contributors folder
    - Add your 42 header
    - Include a brief introduction about yourself (optional)
 
