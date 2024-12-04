@@ -21,8 +21,6 @@ You came to the right place, here you'll be a git master and finally be "gud at 
 - Test your changes before submitting
 - Be patient while waiting for review
 
-Made with [contrib.rocks](https://contrib.rocks)
-
 ## How to Contribute
 
 1. **Fork the Repository**
