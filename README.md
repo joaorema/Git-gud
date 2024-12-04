@@ -20,7 +20,7 @@ We welcome contributions! Please feel free to submit a Pull Request.
   <img src="https://contrib.rocks/image?repo=MarkosComK/Git-gud" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+Made with [contrib.rocks](https://contrib.rocks)
 
 ## Alternative Contributors Section
 <!-- Use this if you prefer GitHub's native contributor list -->
