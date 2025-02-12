@@ -3,6 +3,7 @@
 Master your Git skills and become a Git pro! This repository helps you practice Git fundamentals through hands-on exercises.
 
 ## Contributors
+
 <a href="https://github.com/MarkosComK/Git-gud/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MarkosComK/Git-gud" />
 </a>
@@ -16,6 +17,7 @@ You came to the right place, here you'll be a git master and finally be "gud at 
 </p>
 
 ## Tips for Success
+
 - Keep your commits clear and descriptive
 - Follow the existing file structure
 - Test your changes before submitting
@@ -24,27 +26,32 @@ You came to the right place, here you'll be a git master and finally be "gud at 
 ## How to Contribute
 
 1. **Fork the Repository**
+
    ```bash
    # Click the 'Fork' button at the top right of this page
    ```
 
 2. **Clone Your Fork**
+
    ```bash
    git clone https://github.com/YOUR-USERNAME/Git-gud.git
    cd Git-gud
    ```
 
 3. **Create Your Branch**
+
    ```bash
    git checkout -b feature/YOUR-USERNAME
    ```
 
 4. **Add Your Contribution**
+
    - Create a new file named `YOUR-USERNAME.c` inside contributors folder
    - Add your 42 header
    - Include a brief introduction about yourself (optional)
 
 5. **Commit Your Changes**
+
    ```bash
    git add YOUR-USERNAME.md
    git commit -m "feat: add contribution from YOUR-USERNAME"
@@ -59,9 +66,12 @@ You came to the right place, here you'll be a git master and finally be "gud at 
    - Submit your PR!
 
 ## Tips for Success
+
 - Keep your commits clear and descriptive
 - Follow the existing file structure
 - Test your changes before submitting
 - Be patient while waiting for review
+
+First presentation: 2025-02-12 ✅
 
 Made with [contrib.rocks](https://contrib.rocks)
